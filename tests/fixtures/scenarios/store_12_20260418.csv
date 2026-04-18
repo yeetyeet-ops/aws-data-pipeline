@@ -1,0 +1,3 @@
+order_id,customer_id,product_id,order_date,quantity,payment_status
+ORD180,CUST180,PROD280,2024-02-11,1,paid
+ORD181,CUST181,PROD281,2024-02-11,2,pending

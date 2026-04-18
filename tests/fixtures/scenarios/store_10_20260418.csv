@@ -1,0 +1,6 @@
+order_id,customer_id,product_id,order_date,quantity,unit_price,payment_status
+ORD200,CUST200,PROD300,2024-02-13,1,10.00,paid
+ORD201, ,PROD301,2024-02-13,2,11.00,paid
+ORD202,CUST202,,2024-02-13,3,12.00,pending
+ORD203,CUST203,PROD303, ,4,13.00,failed
+ORD204,CUST204,PROD304,2024-02-13,5,14.00,paid
